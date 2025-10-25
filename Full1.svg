@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="177mm" xmlns="http://www.w3.org/2000/svg" height="147mm" version="1.1" viewBox="0 0 671 556" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <a target="_parent" xlink:href="Full47.htm#48">
+      <polyline fill="none" points="105,89 444,89" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="444,89 430,92 430,86" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="274" y="92" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Data Petugas</text>
+   </a>
+   <a target="_parent" xlink:href="Full61.htm#76">
+      <polyline fill="none" points="65,156 65,102" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="65,102 68,116 62,116" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="64" y="132" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Login Petugas</text>
+   </a>
+   <a target="_parent" xlink:href="Full55.htm#64">
+      <polyline fill="none" points="112,172 465,172 465,105" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="465,105 468,118 462,118" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="213" y="176" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Input Data Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full50.htm#54">
+      <polyline fill="none" points="488,105 488,190 112,190" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="112,190 125,187 125,193" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="372" y="193" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Info Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full43.htm#40">
+      <polyline fill="none" points="507,105 507,307 389,307" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="389,307 403,304 403,310" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="437" y="310" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full54.htm#62">
+      <polyline fill="none" points="83,206 83,251 304,251" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="304,251 291,254 291,248" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="156" y="255" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Input Data Anggota</text>
+   </a>
+   <a target="_parent" xlink:href="Full51.htm#56">
+      <polyline fill="none" points="304,235 98,235 98,206" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="98,206 101,220 95,220" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="222" y="237" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Info Data Anggota</text>
+   </a>
+   <a target="_parent" xlink:href="Full56.htm#66">
+      <polyline fill="none" points="48,206 48,323 305,323" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="305,323 292,326 292,320" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="139" y="327" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Input Data Pinjaman</text>
+   </a>
+   <a target="_parent" xlink:href="Full52.htm#58">
+      <polyline fill="none" points="305,308 67,308 67,206" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="67,206 70,220 64,220" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="239" y="314" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Info Pinjaman</text>
+   </a>
+   <a target="_parent" xlink:href="Full48.htm#50">
+      <polyline fill="none" points="295,399 29,399 29,206" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="29,206 32,220 26,220" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="156" y="401" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Denda</text>
+   </a>
+   <a target="_parent" xlink:href="Full46.htm#46">
+      <polyline fill="none" points="564,234 512,234" stroke="#0080c0" stroke-width="1"/>
+      <polyline fill="none" points="501,234 384,234" stroke="#0080c0" stroke-width="1"/>
+      <path d="M512,234 A5,5 0 0,0 507,228" fill="none" stroke="#0080c0" stroke-width="1"/>
+      <line x1="507" x2="507" y1="228" y2="228" stroke="#0080c0" stroke-width="1"/>
+      <path d="M507,228 A5,5 0 0,0 501,234" fill="none" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="564,234 551,237 551,231" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="452" y="236" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Data Keanggotaan</text>
+   </a>
+   <a target="_parent" xlink:href="Full53.htm#60">
+      <polyline fill="none" points="384,250 501,250" stroke="#0080c0" stroke-width="1"/>
+      <polyline fill="none" points="512,250 564,250" stroke="#0080c0" stroke-width="1"/>
+      <path d="M512,250 A5,5 0 0,0 507,245" fill="none" stroke="#0080c0" stroke-width="1"/>
+      <line x1="507" x2="507" y1="245" y2="245" stroke="#0080c0" stroke-width="1"/>
+      <path d="M507,245 A5,5 0 0,0 501,250" fill="none" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="384,250 397,247 397,253" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="495" y="253" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Input Data Anggota</text>
+   </a>
+   <a target="_parent" xlink:href="Full64.htm#82">
+      <polyline fill="none" points="573,269 573,323 389,323" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="389,323 403,320 403,326" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="518" y="326" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Pinjam Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full45.htm#44">
+      <polyline fill="none" points="362,331 362,351 598,351 598,269" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="598,269 601,282 595,282" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="450" y="354" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Data Buku/Verifikasi</text>
+   </a>
+   <a target="_parent" xlink:href="Full65.htm#84">
+      <polyline fill="none" points="334,331 334,381" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="334,381 331,368 337,368" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="333" y="359" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Pinjaman</text>
+   </a>
+   <a target="_parent" xlink:href="Full49.htm#52">
+      <polyline fill="none" points="403,407 645,407 645,269" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="645,269 648,282 642,282" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="472" y="410" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Denda</text>
+   </a>
+   <a target="_parent" xlink:href="Full63.htm#80">
+      <polyline fill="none" points="624,269 624,390 403,390" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="403,390 416,387 416,393" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="568" y="392" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Pengembalian Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full44.htm#42">
+      <polyline fill="none" points="348,299 347,257" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="348,299 344,286 350,286" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="347" y="281" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Data Anggota</text>
+   </a>
+   <a target="_parent" xlink:href="Full59.htm#72">
+      <polyline fill="none" points="308,534 50,534 50,475" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="50,475 53,488 47,488" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="143" y="537" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Lap Denda</text>
+   </a>
+   <a target="_parent" xlink:href="Full60.htm#74">
+      <polyline fill="none" points="308,519 84,519 84,475" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="84,475 87,488 81,488" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="249" y="521" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Lap Pinjaman</text>
+   </a>
+   <a target="_parent" xlink:href="Full58.htm#70">
+      <polyline fill="none" points="361,509 361,442 113,442" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="113,442 127,439 127,445" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="209" y="444" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Lap Data Anggota</text>
+   </a>
+   <a target="_parent" xlink:href="Full57.htm#68">
+      <polyline fill="none" points="113,459 337,459 337,509" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="113,459 127,456 127,462" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="278" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Lap Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full62.htm#78">
+      <polyline fill="none" points="383,413 383,509" stroke="#0080c0" stroke-width="1"/>
+      <polygon fill="#0080c0" points="383,509 380,495 386,495" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="383" y="464" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Pengembalian</text>
+   </a>
+   <polyline fill="none" points="487,73 487,33" stroke="#0000ff" stroke-width="1"/>
+   <polygon fill="#0000ff" points="487,73 484,60 490,60" stroke="#0000ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polygon fill="#0000ff" points="487,33 490,47 484,47" stroke="#0000ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="65,70 65,32" stroke="#0000ff" stroke-width="1"/>
+   <polygon fill="#0000ff" points="65,32 68,46 62,46" stroke="#0000ff" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="560,171 527,171 527,210 512,210" stroke="#0000ff" stroke-width="1"/>
+   <polyline fill="none" points="501,210 344,210 344,225" stroke="#0000ff" stroke-width="1"/>
+   <path d="M512,210 A5,5 0 0,0 507,205" fill="none" stroke="#0000ff" stroke-width="1"/>
+   <line x1="507" x2="507" y1="205" y2="205" stroke="#0000ff" stroke-width="1"/>
+   <path d="M507,205 A5,5 0 0,0 501,210" fill="none" stroke="#0000ff" stroke-width="1"/>
+   <polygon fill="#0000ff" points="560,171 547,174 547,168" stroke="#0000ff" stroke-width="1" stroke-linejoin="miter"/>
+   <a target="_parent" xlink:href="Full8.htm#7">
+      <rect x="22" y="156" fill="#f2f2ff" width="90" height="50" stroke="#0080c0" stroke-width="1"/>
+      <text x="67" y="167" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Petugas</text>
+   </a>
+   <a target="_parent" xlink:href="Full6.htm#3">
+      <rect x="564" y="219" fill="#f2f2ff" width="90" height="50" stroke="#0080c0" stroke-width="1"/>
+      <text x="609" y="230" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Anggota</text>
+   </a>
+   <a target="_parent" xlink:href="Full7.htm#5">
+      <rect x="23" y="425" fill="#f2f2ff" width="90" height="50" stroke="#0080c0" stroke-width="1"/>
+      <text x="68" y="436" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Kepala Perpus</text>
+   </a>
+   <a target="_parent" xlink:href="Full13.htm#17">
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="25" y="70" rx="4" ry="4" fill="url(#Gradient1)" width="80" height="32" stroke="#8080ff" stroke-width="1"/>
+      <line x1="97" x2="105" y1="102" y2="94" stroke="#8080ff" stroke-width="1"/>
+      <text x="65" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1.1</text>
+      <line x1="25" x2="105" y1="87" y2="87" stroke="#8080ff" stroke-width="1"/>
+      <text x="65" y="97" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Login Petugas</text>
+   </a>
+   <a target="_parent" xlink:href="Full11.htm#8">
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="444" y="73" rx="4" ry="4" fill="url(#Gradient2)" width="80" height="32" stroke="#8080ff" stroke-width="1"/>
+      <line x1="516" x2="524" y1="105" y2="97" stroke="#8080ff" stroke-width="1"/>
+      <text x="484" y="84" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1.2</text>
+      <line x1="444" x2="524" y1="90" y2="90" stroke="#8080ff" stroke-width="1"/>
+      <text x="484" y="100" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full14.htm#22">
+      <defs>
+         <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="304" y="225" rx="4" ry="4" fill="url(#Gradient3)" width="80" height="32" stroke="#8080ff" stroke-width="1"/>
+      <line x1="376" x2="384" y1="257" y2="249" stroke="#8080ff" stroke-width="1"/>
+      <text x="344" y="236" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1.3</text>
+      <line x1="304" x2="384" y1="242" y2="242" stroke="#8080ff" stroke-width="1"/>
+      <text x="344" y="252" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Pendataan</text>
+   </a>
+   <a target="_parent" xlink:href="Full16.htm#31">
+      <defs>
+         <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="305" y="299" rx="4" ry="4" fill="url(#Gradient4)" width="84" height="32" stroke="#8080ff" stroke-width="1"/>
+      <line x1="381" x2="389" y1="331" y2="323" stroke="#8080ff" stroke-width="1"/>
+      <text x="347" y="310" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1.4</text>
+      <line x1="305" x2="389" y1="316" y2="316" stroke="#8080ff" stroke-width="1"/>
+      <text x="347" y="326" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Pinjaman Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full15.htm#27">
+      <defs>
+         <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="295" y="381" rx="4" ry="4" fill="url(#Gradient5)" width="108" height="32" stroke="#8080ff" stroke-width="1"/>
+      <line x1="395" x2="403" y1="413" y2="405" stroke="#8080ff" stroke-width="1"/>
+      <text x="349" y="392" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1.5</text>
+      <line x1="295" x2="403" y1="398" y2="398" stroke="#8080ff" stroke-width="1"/>
+      <text x="349" y="408" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Pengembalian Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full12.htm#13">
+      <defs>
+         <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#c0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="308" y="509" rx="4" ry="4" fill="url(#Gradient6)" width="98" height="32" stroke="#8080ff" stroke-width="1"/>
+      <line x1="398" x2="406" y1="541" y2="533" stroke="#8080ff" stroke-width="1"/>
+      <text x="357" y="520" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1.6</text>
+      <line x1="308" x2="406" y1="526" y2="526" stroke="#8080ff" stroke-width="1"/>
+      <text x="357" y="536" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Laporan</text>
+   </a>
+   <a target="_parent" xlink:href="Full69.htm#9">
+      <defs>
+         <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="0%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#f8d66d"/>
+         </linearGradient>
+      </defs>
+      <rect x="15" y="15" fill="url(#Gradient7)" width="93" height="17" stroke="#808000" stroke-width="1"/>
+      <line x1="29" x2="29" y1="15" y2="32" stroke="#808000" stroke-width="1"/>
+      <text x="22" y="26" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1</text>
+      <text x="72" y="26" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Data Petugas</text>
+   </a>
+   <a target="_parent" xlink:href="Full68.htm#6">
+      <defs>
+         <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="0%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#f8d66d"/>
+         </linearGradient>
+      </defs>
+      <rect x="441" y="16" fill="url(#Gradient8)" width="80" height="17" stroke="#808000" stroke-width="1"/>
+      <line x1="455" x2="455" y1="16" y2="33" stroke="#808000" stroke-width="1"/>
+      <text x="448" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">2</text>
+      <text x="492" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Data Buku</text>
+   </a>
+   <a target="_parent" xlink:href="Full67.htm#3">
+      <defs>
+         <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="0%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#f8d66d"/>
+         </linearGradient>
+      </defs>
+      <rect x="560" y="162" fill="url(#Gradient9)" width="95" height="17" stroke="#808000" stroke-width="1"/>
+      <line x1="574" x2="574" y1="162" y2="179" stroke="#808000" stroke-width="1"/>
+      <text x="567" y="173" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">3</text>
+      <text x="618" y="173" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Data Anggota</text>
+   </a>
+</svg>
